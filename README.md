@@ -3,5 +3,5 @@
 <b>Details : </b>
 A simple android studio project to make Breakout Game
 
-<b>Screenshot can be viewed on Changelog.docx</b>
+<b>Screenshot can be viewed on Changelog Break Out.docx</b>
 
